@@ -1,0 +1,51 @@
+D:\BTL\BTL_TKCSDL_TrenWeb\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.dll.config
+D:\BTL\BTL_TKCSDL_TrenWeb\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.dll
+D:\BTL\BTL_TKCSDL_TrenWeb\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.pdb
+D:\BTL\BTL_TKCSDL_TrenWeb\BanHangDienTu\BanHangDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL\BTL_TKCSDL_TrenWeb\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.csprojResolveAssemblyReference.cache
+D:\BTL\BTL_TKCSDL_TrenWeb\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.csproj.CoreCompileInputs.cache
+D:\BTL\BTL_TKCSDL_TrenWeb\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.dll
+D:\BTL\BTL_TKCSDL_TrenWeb\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.pdb
+C:\Users\Admin\Downloads\New folder\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.dll.config
+C:\Users\Admin\Downloads\New folder\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.dll
+C:\Users\Admin\Downloads\New folder\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.pdb
+C:\Users\Admin\Downloads\New folder\BanHangDienTu\BanHangDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\New folder\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\New folder\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New folder\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.dll
+C:\Users\Admin\Downloads\New folder\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.pdb
+D:\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.dll.config
+D:\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.dll
+D:\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.pdb
+D:\BanHangDienTu\BanHangDienTu\bin\CKEditor.NET.dll
+D:\BanHangDienTu\BanHangDienTu\bin\CKFinder.dll
+D:\BanHangDienTu\BanHangDienTu\bin\CKFinder.pdb
+D:\BanHangDienTu\BanHangDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.csprojResolveAssemblyReference.cache
+D:\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.csproj.CoreCompileInputs.cache
+D:\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.dll
+D:\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.pdb
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.dll.config
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.dll
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\bin\BanHangDienTu.pdb
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\bin\CKEditor.NET.dll
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\bin\CKFinder.dll
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\bin\CKFinder.pdb
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.csprojResolveAssemblyReference.cache
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.csproj.CoreCompileInputs.cache
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.dll
+D:\BTL\QLBanHangDT\BanHangDienTu\BanHangDienTu\obj\Debug\BanHangDienTu.pdb
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\BanHangDienTu.dll.config
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\BanHangDienTu.dll
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\BanHangDienTu.pdb
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\CKFinder.dll
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\EntityFramework.dll
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\EntityFramework.SqlServer.dll
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\CKFinder.pdb
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\EntityFramework.xml
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\EntityFramework.SqlServer.xml
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\obj\Debug\BanHangDienTu.csprojResolveAssemblyReference.cache
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\obj\Debug\BanHangDienTu.dll
+E:\Code\Thư mục Mới\BanHangDienTu-master\BanHangDienTu\obj\Debug\BanHangDienTu.pdb

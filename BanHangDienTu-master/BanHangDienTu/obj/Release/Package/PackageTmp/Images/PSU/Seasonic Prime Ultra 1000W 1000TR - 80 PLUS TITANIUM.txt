@@ -1,0 +1,8 @@
+﻿TỔNG CÔNG SUẤT: 1000W
+CHỨNG NHẬN: 80 PLUS®TItanium
+DC OUTPUT: 12V 83A (MAX. 996W)
+FAN: FDB 135mm, Premium Hybrid Fan Control - điều khiển tốc độ thông minh
+CÁP: dạng RỜI (toàn bộ), sợi dẹt màu đen
+Active PFC Full Range: 100 ~ 240V
+KÍCH THƯỚC: 150 mm (W) x 170 mm (L) x 86 mm (H)
+KẾT NỐI: MB 20+4pin * 1 / CPU 4+4pin * 2 / PCI-E * 8 / SATA * 14 / Molex 4pin * 5
